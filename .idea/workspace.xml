@@ -1,0 +1,1114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f6915eb0-54e7-477e-8cea-a82f405f9d38" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="HashMap.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/HashMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="395" column="26" selection-start-line="395" selection-start-column="26" selection-end-line="395" selection-end-column="26" />
+              <folding>
+                <element signature="e#19103#19104#0" expanded="true" />
+                <element signature="e#19161#19162#0" expanded="true" />
+                <element signature="e#19327#19328#0" expanded="true" />
+                <element signature="e#19410#19411#0" expanded="true" />
+                <element signature="e#24329#24330#0" expanded="true" />
+                <element signature="e#24394#24395#0" expanded="true" />
+                <element signature="e#68865#68866#0" expanded="true" />
+                <element signature="e#68916#68917#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TreeNode.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/stydy/leetcode/TreeNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <element signature="e#229#230#0" expanded="true" />
+                <element signature="e#259#260#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BalancedTree.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/stydy/leetcode/BalancedTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WindowsSelectorProvider.class" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/jre/lib/rt.jar!/sun/nio/ch/WindowsSelectorProvider.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SelectorProviderImpl.class" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/jre/lib/rt.jar!/sun/nio/ch/SelectorProviderImpl.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="16" column="58" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SelectorProvider.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/nio/channels/spi/SelectorProvider.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="397">
+              <caret line="174" column="62" selection-start-line="174" selection-start-column="62" selection-end-line="174" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DefaultSelectorProvider.class" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/jre/lib/rt.jar!/sun/nio/ch/DefaultSelectorProvider.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+              <folding>
+                <element signature="e#305#306#0" expanded="true" />
+                <element signature="e#357#358#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>toString</find>
+      <find>spl</find>
+      <find>get</find>
+      <find>concat</find>
+      <find>transf</find>
+      <find>createEntry</find>
+      <find>put</find>
+      <find>writ</find>
+      <find>table</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/stydy/date/DateUtils.java" />
+        <option value="$PROJECT_DIR$/src/com/stydy/quartz/MainJob.java" />
+        <option value="$PROJECT_DIR$/src/com/stydy/observer/ObserverTest.java" />
+        <option value="$PROJECT_DIR$/src/com/stydy/socket/Demo01.java" />
+        <option value="$PROJECT_DIR$/src/com/stydy/socket/SocketClient.java" />
+        <option value="$PROJECT_DIR$/src/com/stydy/socket/Demo02.java" />
+        <option value="$PROJECT_DIR$/src/com/stydy/socket/demonio/DemoMain.java" />
+        <option value="$PROJECT_DIR$/src/com/stydy/gcms/Shape.java" />
+        <option value="$PROJECT_DIR$/src/com/stydy/sort/ParTest.java" />
+        <option value="$PROJECT_DIR$/src/com/stydy/sort/SonTest.java" />
+        <option value="$PROJECT_DIR$/src/com/stydy/algorithm/Demo01.java" />
+        <option value="$PROJECT_DIR$/src/com/stydy/algorithm/Demo02.java" />
+        <option value="$PROJECT_DIR$/src/com/stydy/algorithm/Demo03.java" />
+        <option value="$PROJECT_DIR$/src/com/stydy/algorithm/Demo04.java" />
+        <option value="$PROJECT_DIR$/src/com/stydy/algorithm/Demo05.java" />
+        <option value="$PROJECT_DIR$/src/com/stydy/algorithm/Demo06.java" />
+        <option value="$PROJECT_DIR$/src/com/stydy/socket/demonio/MulTimeServer.java" />
+        <option value="$PROJECT_DIR$/src/com/stydy/algorithm/Demo07.java" />
+        <option value="$PROJECT_DIR$/src/com/stydy/algorithm/Demo08.java" />
+        <option value="$PROJECT_DIR$/src/com/stydy/algorithm/Deom09.java" />
+        <option value="$PROJECT_DIR$/src/com/stydy/algorithm/Demo100.java" />
+        <option value="$PROJECT_DIR$/src/com/stydy/algorithm/Demo10.java" />
+        <option value="$PROJECT_DIR$/src/com/stydy/algorithm/Demo12.java" />
+        <option value="$PROJECT_DIR$/src/com/stydy/algorithm/Demo14.java" />
+        <option value="$PROJECT_DIR$/src/com/stydy/algorithm/Demo15.java" />
+        <option value="$PROJECT_DIR$/src/com/stydy/algorithm/Demo11.java" />
+        <option value="$PROJECT_DIR$/src/com/stydy/algorithm/Demo13.java" />
+        <option value="$PROJECT_DIR$/src/com/stydy/algorithm/Codegym01.java" />
+        <option value="$PROJECT_DIR$/src/com/stydy/algorithm/ITest01.java" />
+        <option value="$PROJECT_DIR$/src/com/stydy/algorithm/ITest02.java" />
+        <option value="$PROJECT_DIR$/src/com/stydy/algorithm/TestIn.java" />
+        <option value="$PROJECT_DIR$/src/com/stydy/algorithm/TestMain.java" />
+        <option value="$PROJECT_DIR$/src/com/stydy/sort/ReNum.java" />
+        <option value="$PROJECT_DIR$/src/com/stydy/sort/TwoNum.java" />
+        <option value="$PROJECT_DIR$/src/com/stydy/sort/ReSpace.java" />
+        <option value="$PROJECT_DIR$/src/com/stydy/sort/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/com/stydy/sort/StackOut.java" />
+        <option value="$PROJECT_DIR$/src/com/stydy/sort/StackQueue.java" />
+        <option value="$PROJECT_DIR$/src/com/stydy/map/MyMapStudy.java" />
+        <option value="$PROJECT_DIR$/src/com/stydy/sort/DeleteNode.java" />
+        <option value="$PROJECT_DIR$/src/com/stydy/algorithm/Demo17.java" />
+        <option value="$PROJECT_DIR$/src/com/stydy/algorithm/Demo16.java" />
+        <option value="$PROJECT_DIR$/src/com/stydy/leetcode/TwoTree.java" />
+        <option value="$PROJECT_DIR$/src/com/stydy/leetcode/TwoTreeMed.java" />
+        <option value="$PROJECT_DIR$/src/com/stydy/leetcode/DiffTreeNode.java" />
+        <option value="$PROJECT_DIR$/src/com/stydy/leetcode/StrDif.java" />
+        <option value="$PROJECT_DIR$/src/com/stydy/algorithm/Demo18.java" />
+        <option value="$PROJECT_DIR$/src/com/stydy/leetcode/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/com/stydy/algorithm/Demo19.java" />
+        <option value="$PROJECT_DIR$/src/com/stydy/test/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/stydy/leetcode/BalancedTree.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.0-bin\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="27" />
+    <option name="y" value="15" />
+    <option name="width" value="1890" />
+    <option name="height" value="726" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="dateUtil" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dateUtil" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dateUtil" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dateUtil" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dateUtil" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dateUtil" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dateUtil" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dateUtil" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="stydy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dateUtil" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dateUtil" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="stydy" type="462c0819:PsiDirectoryNode" />
+              <item name="file" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dateUtil" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dateUtil" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="stydy" type="462c0819:PsiDirectoryNode" />
+              <item name="socket" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dateUtil" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dateUtil" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="stydy" type="462c0819:PsiDirectoryNode" />
+              <item name="socket" type="462c0819:PsiDirectoryNode" />
+              <item name="demonio" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="E:/开源库/msc-Demo-master/microservicecloud" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.30689654" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ideaWorkSpace\dateUtil\lib" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Demo16">
+    <configuration name="Codegym01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stydy.algorithm.Codegym01" />
+      <module name="dateUtil" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stydy.algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Demo11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stydy.algorithm.Demo11" />
+      <module name="dateUtil" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stydy.algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Demo13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stydy.algorithm.Demo13" />
+      <module name="dateUtil" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stydy.algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Demo16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stydy.algorithm.Demo16" />
+      <module name="dateUtil" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stydy.algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="TestMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stydy.algorithm.TestMain" />
+      <module name="dateUtil" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stydy.algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Demo11" />
+      <item itemvalue="Application.Codegym01" />
+      <item itemvalue="Application.TestMain" />
+      <item itemvalue="Application.Demo13" />
+      <item itemvalue="Application.Demo16" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Demo16" />
+        <item itemvalue="Application.TestMain" />
+        <item itemvalue="Application.Codegym01" />
+        <item itemvalue="Application.Demo13" />
+        <item itemvalue="Application.Demo11" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6915eb0-54e7-477e-8cea-a82f405f9d38" name="Default" comment="" />
+      <created>1596270080411</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596270080411</updated>
+      <workItem from="1596270083043" duration="6002000" />
+      <workItem from="1597300724183" duration="1986000" />
+      <workItem from="1597319132508" duration="4685000" />
+      <workItem from="1597387803209" duration="8283000" />
+      <workItem from="1597475291734" duration="4875000" />
+      <workItem from="1597717572648" duration="2064000" />
+      <workItem from="1598010165414" duration="2271000" />
+      <workItem from="1598434313753" duration="604000" />
+      <workItem from="1598508020852" duration="4462000" />
+      <workItem from="1598521318308" duration="2284000" />
+      <workItem from="1598585639374" duration="765000" />
+      <workItem from="1598670733996" duration="21071000" />
+      <workItem from="1598855521183" duration="12421000" />
+      <workItem from="1598937724938" duration="9593000" />
+      <workItem from="1599008231098" duration="618000" />
+      <workItem from="1599112722001" duration="4000" />
+      <workItem from="1599457859770" duration="672000" />
+      <workItem from="1600073390413" duration="605000" />
+      <workItem from="1600088105845" duration="1378000" />
+      <workItem from="1600131492594" duration="621000" />
+      <workItem from="1600218092799" duration="608000" />
+      <workItem from="1600245621400" duration="1202000" />
+      <workItem from="1600326705349" duration="727000" />
+      <workItem from="1600390336240" duration="1212000" />
+      <workItem from="1600498833169" duration="10873000" />
+      <workItem from="1600665996509" duration="11137000" />
+      <workItem from="1600754147552" duration="12697000" />
+      <workItem from="1600826212524" duration="6131000" />
+      <workItem from="1601106009954" duration="2581000" />
+      <workItem from="1601269874970" duration="728000" />
+      <workItem from="1601876639389" duration="4155000" />
+      <workItem from="1601945735320" duration="11000" />
+      <workItem from="1602221259222" duration="7280000" />
+      <workItem from="1602394707430" duration="740000" />
+      <workItem from="1602464704631" duration="627000" />
+      <workItem from="1602505229570" duration="703000" />
+      <workItem from="1602640901754" duration="1322000" />
+      <workItem from="1602817773385" duration="606000" />
+      <workItem from="1603110083769" duration="1044000" />
+      <workItem from="1603878235712" duration="1212000" />
+      <workItem from="1603933675476" duration="8000" />
+      <workItem from="1604488944426" duration="730000" />
+      <workItem from="1604490208738" duration="970000" />
+      <workItem from="1604727896683" duration="561000" />
+      <workItem from="1604732968905" duration="401000" />
+      <workItem from="1604816265236" duration="11787000" />
+      <workItem from="1604974879301" duration="1281000" />
+      <workItem from="1605078681155" duration="1284000" />
+      <workItem from="1605188446216" duration="3156000" />
+      <workItem from="1605316091075" duration="1910000" />
+      <workItem from="1605665727149" duration="1499000" />
+      <workItem from="1605783994058" duration="4686000" />
+      <workItem from="1605934768881" duration="2143000" />
+      <workItem from="1606100731148" duration="6139000" />
+      <workItem from="1606179738494" duration="598000" />
+      <workItem from="1606292394197" duration="1725000" />
+      <workItem from="1606352143143" duration="14000" />
+      <workItem from="1606440394103" duration="1241000" />
+      <workItem from="1606802451146" duration="10831000" />
+      <workItem from="1607056068723" duration="50000" />
+      <workItem from="1607321173227" duration="632000" />
+      <workItem from="1607421328053" duration="606000" />
+      <workItem from="1607475611696" duration="17000" />
+      <workItem from="1607475902794" duration="617000" />
+      <workItem from="1607501399418" duration="1421000" />
+      <workItem from="1607566177944" duration="7039000" />
+      <workItem from="1607908510854" duration="8191000" />
+      <workItem from="1607943304431" duration="1195000" />
+      <workItem from="1608021805926" duration="2088000" />
+      <workItem from="1608101990797" duration="669000" />
+      <workItem from="1608210192902" duration="1383000" />
+      <workItem from="1608262602277" duration="1134000" />
+      <workItem from="1608293838206" duration="1369000" />
+      <workItem from="1608298721679" duration="1718000" />
+      <workItem from="1608342146161" duration="3383000" />
+      <workItem from="1608512749009" duration="1950000" />
+      <workItem from="1608552606437" duration="4328000" />
+      <workItem from="1608598975866" duration="5631000" />
+      <workItem from="1608722671484" duration="4033000" />
+      <workItem from="1608771512376" duration="3610000" />
+      <workItem from="1609122584294" duration="2081000" />
+      <workItem from="1609203441930" duration="613000" />
+      <workItem from="1609289927452" duration="622000" />
+      <workItem from="1609728245432" duration="11668000" />
+      <workItem from="1609809069082" duration="17498000" />
+      <workItem from="1609843932542" duration="2694000" />
+      <workItem from="1609894750926" duration="10284000" />
+      <workItem from="1609938593324" duration="1647000" />
+      <workItem from="1609981255776" duration="3596000" />
+      <workItem from="1610068726583" duration="697000" />
+      <workItem from="1610161648348" duration="641000" />
+      <workItem from="1610274612392" duration="84000" />
+      <workItem from="1610326733517" duration="2479000" />
+      <workItem from="1610374189200" duration="976000" />
+      <workItem from="1610413094266" duration="3705000" />
+      <workItem from="1610448876485" duration="655000" />
+      <workItem from="1610499521517" duration="5329000" />
+      <workItem from="1610708544361" duration="611000" />
+      <workItem from="1611022696020" duration="6631000" />
+      <workItem from="1611376522003" duration="751000" />
+      <workItem from="1611755898599" duration="310000" />
+      <workItem from="1612158594063" duration="737000" />
+      <workItem from="1612245217587" duration="1109000" />
+      <workItem from="1612267234321" duration="3082000" />
+      <workItem from="1612320450778" duration="1532000" />
+      <workItem from="1612409709596" duration="655000" />
+      <workItem from="1612424899508" duration="1059000" />
+      <workItem from="1612660617925" duration="2185000" />
+      <workItem from="1612664578506" duration="599000" />
+      <workItem from="1613614929108" duration="626000" />
+      <workItem from="1613635353385" duration="624000" />
+      <workItem from="1613955224945" duration="2051000" />
+      <workItem from="1614308351387" duration="1128000" />
+      <workItem from="1614344073003" duration="605000" />
+      <workItem from="1614410655184" duration="5152000" />
+      <workItem from="1614561762180" duration="16885000" />
+      <workItem from="1614604424022" duration="1812000" />
+      <workItem from="1614646743044" duration="5593000" />
+      <workItem from="1614732948079" duration="4207000" />
+      <workItem from="1614820618408" duration="1851000" />
+      <workItem from="1614839348290" duration="8945000" />
+      <workItem from="1614860560403" duration="6000" />
+      <workItem from="1614992830372" duration="19389000" />
+      <workItem from="1615097084263" duration="15795000" />
+      <workItem from="1615165189611" duration="16053000" />
+      <workItem from="1615251569730" duration="23596000" />
+      <workItem from="1615338181690" duration="4935000" />
+      <workItem from="1615453051549" duration="1514000" />
+      <workItem from="1615961115572" duration="7274000" />
+      <workItem from="1616202899740" duration="1436000" />
+      <workItem from="1616322366250" duration="1947000" />
+      <workItem from="1616374562081" duration="12014000" />
+      <workItem from="1616409995227" duration="3293000" />
+      <workItem from="1616570941911" duration="4616000" />
+      <workItem from="1616639713240" duration="5789000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="DateUtils_test13 - 2021.02.04 at 15h 50m 56s.xml">
+      <configuration name="DateUtils.test13" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DateUtils_test13 - 2021.02.04 at 15h 59m 17s.xml">
+      <configuration name="DateUtils.test13" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MainJob_test - 2021.02.07 at 09h 48m 37s.xml">
+      <configuration name="MainJob.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MainJob_test - 2021.02.07 at 09h 52m 58s.xml">
+      <configuration name="MainJob.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DateUtils_test555 - 2021.02.26 at 11h 00m 34s.xml">
+      <configuration name="DateUtils.test555" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DateUtils_test555 - 2021.02.26 at 11h 01m 18s.xml">
+      <configuration name="DateUtils.test555" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DateUtils_test555 - 2021.02.26 at 11h 02m 51s.xml">
+      <configuration name="DateUtils.test555" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MainJob_test - 2021.02.27 at 15h 30m 34s.xml">
+      <configuration name="MainJob.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MainJob_test - 2021.02.27 at 15h 38m 16s.xml">
+      <configuration name="MainJob.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MainJob_test - 2021.02.27 at 15h 45m 31s.xml">
+      <configuration name="MainJob.test" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="504554000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="leetcode" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.0" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24514563" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.48121646" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.2504472" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/stydy/socket/demonio/MulTimeServer.java</url>
+          <line>90</line>
+          <properties />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="27" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/stydy/algorithm/TestIn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stydy/algorithm/TestMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stydy/sort/TwoNum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stydy/sort/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/concurrent/ConcurrentMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="62" column="17" selection-start-line="62" selection-start-column="17" selection-end-line="62" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3762">
+          <caret line="266" column="13" selection-start-line="266" selection-start-column="13" selection-end-line="266" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stydy/sort/ReNum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stydy/sort/DeleteNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stydy/sort/StackOut.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stydy/sort/ReSpace.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stydy/sort/StackQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="28" lean-forward="true" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stydy/sort/ParTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stydy/sort/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stydy/algorithm/Demo17.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stydy/leetcode/Yxdkh.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stydy/algorithm/Demo16.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stydy/algorithm/Demo15.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stydy/sort/InsertionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stydy/leetcode/TwoTreeMed.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="13" column="46" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stydy/leetcode/TreeAnswer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stydy/leetcode/StrDif.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stydy/leetcode/DiffTreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="38" column="9" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stydy/algorithm/Demo18.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stydy/algorithm/Demo19.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stydy/leetcode/TwoTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stydy/test/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#319#320#0" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/LinkedHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2622">
+          <caret line="164" column="23" selection-start-line="164" selection-start-column="23" selection-end-line="164" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stydy/codegym/Solution01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stydy/codegym/Cat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stydy/algorithm/Demo05.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stydy/algorithm/Demo06.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stydy/algorithm/Demo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stydy/algorithm/Codegym01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="42" column="42" selection-start-line="42" selection-start-column="42" selection-end-line="42" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stydy/socket/demonio/DemoMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stydy/map/MyMapStudy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="63" column="41" selection-start-line="63" selection-start-column="41" selection-end-line="63" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="395" column="26" selection-start-line="395" selection-start-column="26" selection-end-line="395" selection-end-column="26" />
+          <folding>
+            <element signature="e#19103#19104#0" expanded="true" />
+            <element signature="e#19161#19162#0" expanded="true" />
+            <element signature="e#19327#19328#0" expanded="true" />
+            <element signature="e#19410#19411#0" expanded="true" />
+            <element signature="e#24329#24330#0" expanded="true" />
+            <element signature="e#24394#24395#0" expanded="true" />
+            <element signature="e#68865#68866#0" expanded="true" />
+            <element signature="e#68916#68917#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stydy/leetcode/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#229#230#0" expanded="true" />
+            <element signature="e#259#260#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/io/InputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="164" column="50" lean-forward="true" selection-start-line="164" selection-start-column="50" selection-end-line="164" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/io/FileInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="48" column="35" lean-forward="true" selection-start-line="48" selection-start-column="35" selection-end-line="48" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stydy/file/FileStudy01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="20" column="50" lean-forward="true" selection-start-line="20" selection-start-column="50" selection-end-line="20" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stydy/socket/demonio/MulTimeServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/jre/lib/rt.jar!/sun/nio/ch/WindowsSelectorImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="40" column="4" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/nio/channels/Selector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="226" column="50" selection-start-line="226" selection-start-column="50" selection-end-line="226" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/jre/lib/rt.jar!/sun/nio/ch/SocketChannelImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="47" column="48" lean-forward="true" selection-start-line="47" selection-start-column="48" selection-end-line="47" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/jre/lib/rt.jar!/sun/nio/ch/SelectorProviderImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="16" column="58" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2046">
+          <caret line="392" column="13" selection-start-line="392" selection-start-column="13" selection-end-line="392" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/nio/channels/spi/SelectorProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="174" column="62" selection-start-line="174" selection-start-column="62" selection-end-line="174" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/jre/lib/rt.jar!/sun/nio/ch/DefaultSelectorProvider.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+          <folding>
+            <element signature="e#305#306#0" expanded="true" />
+            <element signature="e#357#358#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/jre/lib/rt.jar!/sun/nio/ch/WindowsSelectorProvider.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/io/Serializable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="29" column="69" lean-forward="true" selection-start-line="29" selection-start-column="69" selection-end-line="29" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stydy/leetcode/BalancedTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>dateUtil</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.30689654" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>jedis-2.9.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.30689654" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
